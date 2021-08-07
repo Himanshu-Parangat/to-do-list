@@ -1,13 +1,11 @@
 # TO-DO app
 
-This is a simple introduction to compiling Markdown in VS Code.
+i am making a to do list app
 
-Things you'll need:
+Things  i'll need:
 
 * [Node.js](https://nodejs.org)
 * [markdown-it](https://www.npmjs.com/package/markdown-it)
 * [tasks.json](/docs/editor/tasks)
 
-## Section Title
-
-*Italic*	_Italic_	Italic
+## currently understanding github
